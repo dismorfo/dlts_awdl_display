@@ -1,0 +1,4 @@
+name = AWDL Custom fields formaters
+description = Provide custom fields formaters for AWDL.
+core = 7.x
+package = DLTS

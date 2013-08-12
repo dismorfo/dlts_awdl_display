@@ -60,8 +60,6 @@ function theme_file_custom_link($variables) {
 
   $file = $variables['file'];
   
-  $icon_directory = $variables['icon_directory'];
-
   $url = file_create_url($file->uri);
   
   // Set options as per anchor format described at
